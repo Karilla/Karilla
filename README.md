@@ -15,8 +15,11 @@ University of Lausanne.
 ## What I work with
 
 **Languages:** C, C++, Python, Java, C#, TypeScript
+
 **Embedded:** Zephyr, Mbed-OS, Xenomai, Linux drivers, cross-compilation, JTAG
+
 **Hardware:** PCB design (Altium Designer), FPGA (VHDL), lab instruments
+
 **Tools:** Linux, Git, Docker, CI
 
 ## Projects
